@@ -1,0 +1,20 @@
+\\truro.local\Callywith\Students\ah330799\Documents\Visual Studio 2019\Projects\Binary Game\Binary Game\bin\Debug\Binary Game.exe.config
+\\truro.local\Callywith\Students\ah330799\Documents\Visual Studio 2019\Projects\Binary Game\Binary Game\bin\Debug\Binary Game.exe
+\\truro.local\Callywith\Students\ah330799\Documents\Visual Studio 2019\Projects\Binary Game\Binary Game\bin\Debug\Binary Game.pdb
+\\truro.local\Callywith\Students\ah330799\Documents\Visual Studio 2019\Projects\Binary Game\Binary Game\bin\Debug\Binary Game.xml
+\\truro.local\Callywith\Students\ah330799\Documents\Visual Studio 2019\Projects\Binary Game\Binary Game\bin\Debug\MetroFramework.Design.dll
+\\truro.local\Callywith\Students\ah330799\Documents\Visual Studio 2019\Projects\Binary Game\Binary Game\bin\Debug\MetroFramework.dll
+\\truro.local\Callywith\Students\ah330799\Documents\Visual Studio 2019\Projects\Binary Game\Binary Game\bin\Debug\MetroFramework.Fonts.dll
+\\truro.local\Callywith\Students\ah330799\Documents\Visual Studio 2019\Projects\Binary Game\Binary Game\obj\Debug\Binary Game.vbproj.AssemblyReference.cache
+\\truro.local\Callywith\Students\ah330799\Documents\Visual Studio 2019\Projects\Binary Game\Binary Game\obj\Debug\Binary_Game.Form1.resources
+\\truro.local\Callywith\Students\ah330799\Documents\Visual Studio 2019\Projects\Binary Game\Binary Game\obj\Debug\Binary_Game.Resources.resources
+\\truro.local\Callywith\Students\ah330799\Documents\Visual Studio 2019\Projects\Binary Game\Binary Game\obj\Debug\Binary Game.vbproj.GenerateResource.cache
+\\truro.local\Callywith\Students\ah330799\Documents\Visual Studio 2019\Projects\Binary Game\Binary Game\obj\Debug\Binary Game.vbproj.CoreCompileInputs.cache
+\\truro.local\Callywith\Students\ah330799\Documents\Visual Studio 2019\Projects\Binary Game\Binary Game\obj\Debug\Binary Game.vbproj.CopyComplete
+\\truro.local\Callywith\Students\ah330799\Documents\Visual Studio 2019\Projects\Binary Game\Binary Game\obj\Debug\Binary Game.exe
+\\truro.local\Callywith\Students\ah330799\Documents\Visual Studio 2019\Projects\Binary Game\Binary Game\obj\Debug\Binary Game.xml
+\\truro.local\Callywith\Students\ah330799\Documents\Visual Studio 2019\Projects\Binary Game\Binary Game\obj\Debug\Binary Game.pdb
+\\truro.local\Callywith\Students\ah330799\Documents\Visual Studio 2019\Projects\Binary Game\Binary Game\obj\Debug\Binary_Game.Instructions.resources
+\\truro.local\Callywith\Students\ah330799\Documents\Visual Studio 2019\Projects\Binary Game\Binary Game\obj\Debug\Binary_Game.Difficulty_select.resources
+\\truro.local\Callywith\Students\ah330799\Documents\Visual Studio 2019\Projects\Binary Game\Binary Game\obj\Debug\Binary_Game.Game.resources
+\\truro.local\Callywith\Students\ah330799\Documents\Visual Studio 2019\Projects\Binary Game\Binary Game\obj\Debug\Binary_Game.GameOver.resources
